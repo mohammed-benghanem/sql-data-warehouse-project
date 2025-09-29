@@ -18,19 +18,19 @@ This project solves a common business challenge: consolidating data from dispara
 
 🎯 Key Deliverables
 
-✅ End-to-End Data Pipeline: From raw CSV ingestion to advanced analytical queries
-✅ Data Integration: Successfully merged ERP and CRM data sources with quality checks
-✅ Production-Ready Schema: Built optimized star schema for analytics
-✅ Advanced Analytics: Developed comprehensive SQL analyses for business intelligence
-✅ Data Exploration: Implemented data quality assessments and metric calculations
+✅ End-to-End Data Pipeline: From raw CSV ingestion to advanced analytical queries.
+✅ Data Integration: Successfully merged ERP and CRM data sources with quality checks.
+✅ Production-Ready Schema: Built optimized star schema for analytics.
+✅ Advanced Analytics: Developed comprehensive SQL analyses for business intelligence.
+✅ Data Exploration: Implemented data quality assessments and metric calculations.
 
 
 📊 Analytics Capabilities
 
-Data Exploration: Temporal analysis, customer demographics, product catalog review
-Business Metrics: Revenue calculations, sales performance, customer behavior analysis
-Ranking Analysis: Top-performing products, VIP customers, product category performance
-Magnitude Analysis: Data distribution across dimensions and key performance indicators
+- Data Exploration: Temporal analysis, customer demographics, product catalog review.
+- Business Metrics: Revenue calculations, sales performance, customer behavior analysis.
+- Ranking Analysis: Top-performing products, VIP customers, product category performance.
+- Magnitude Analysis: Data distribution across dimensions and key performance indicators.
 ---
 ## 📂 Repository Structure
 ```
